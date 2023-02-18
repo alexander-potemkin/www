@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://explorer.potemkin.co/sitemap.xml
+Sitemap: https://notes.potemkin.co/sitemap.xml
