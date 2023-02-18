@@ -9,5 +9,19 @@
         "name": "Alex Potemkin"
     },
     "items": [
+        {
+            "id": "https://notes.potemkin.co/freebsd-2023.html",
+            "url": "https://notes.potemkin.co/freebsd-2023.html",
+            "title": "FreeBSD 2023",
+            "summary": "HackerNews post Why we’re migrating (many of) our servers from Linux to FreeBSD BastilleBSD - containers on FreeBSD Leveraging Jails for a FAAS system",
+            "content_html": "<p>HackerNews post <a href=\"https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/\">Why we’re migrating (many of) our servers from Linux to FreeBSD</a></p>\n<p><a href=\"https://bastillebsd.org\">BastilleBSD</a> -  containers on FreeBSD</p>\n<p><a href=\"https://papers.freebsd.org/2018/bsdcan/downs-leveraging_jails_for_a_faas_system/\">Leveraging Jails for a FAAS system</a></p>\n",
+            "author": {
+                "name": "Alex Potemkin"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-18T17:37:13+01:00",
+            "date_modified": "2023-02-18T17:40:22+01:00"
+        }
     ]
 }

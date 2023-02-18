@@ -3,10 +3,33 @@
     <title>Potemkin &amp; Co</title>
     <link href="https://notes.potemkin.co/feed.xml" rel="self" />
     <link href="https://notes.potemkin.co" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-02-18T17:40:22+01:00</updated>
     <author>
         <name>Alex Potemkin</name>
     </author>
     <id>https://notes.potemkin.co</id>
 
+    <entry>
+        <title>FreeBSD 2023</title>
+        <author>
+            <name>Alex Potemkin</name>
+        </author>
+        <link href="https://notes.potemkin.co/freebsd-2023.html"/>
+        <id>https://notes.potemkin.co/freebsd-2023.html</id>
+
+        <updated>2023-02-18T17:40:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                    HackerNews post Why we’re migrating (many of) our servers from Linux to FreeBSD BastilleBSD - containers on FreeBSD Leveraging Jails for a FAAS system
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>HackerNews post <a href="https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/">Why we’re migrating (many of) our servers from Linux to FreeBSD</a></p>
+<p><a href="https://bastillebsd.org">BastilleBSD</a> -  containers on FreeBSD</p>
+<p><a href="https://papers.freebsd.org/2018/bsdcan/downs-leveraging_jails_for_a_faas_system/">Leveraging Jails for a FAAS system</a></p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
